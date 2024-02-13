@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "406795716938",
+    "project_id": "latihan-fcm-16571",
+    "storage_bucket": "latihan-fcm-16571.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406795716938:android:2daecdaf073936927999b3",
+        "android_client_info": {
+          "package_name": "com.example.flutter_push_notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCQMPj7XyQmtYjMXQnm4niQMAV9LRpgew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
